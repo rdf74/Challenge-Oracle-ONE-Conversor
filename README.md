@@ -31,4 +31,14 @@ Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera
 
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: Conversor de moneda - `Funcionalidad 2`: Conversor de Medidas - `Funcionalidad 3`: Conversor de Temperatura
+- `Funcionalidad 1`: Conversor de moneda 
+- `Funcionalidad 2`: Conversor de Medidas 
+- `Funcionalidad 3`: Conversor de Temperatura
+
+\## 📁 Acceso al proyecto
+
+**Accede al código fuente del proyecto, https://github.com/rdf74/Challenge-Oracle-ONE-Conversor.git**
+
+\## 🛠️ Abre y ejecuta el proyecto
+
+**Para abrir y ejecutar el proyecto abrir la clase Main y luego Run**
